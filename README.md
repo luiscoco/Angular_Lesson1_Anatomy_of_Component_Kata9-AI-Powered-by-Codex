@@ -2,6 +2,25 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.0.
 
+## Kata9 Prompt
+
+```
+Kata 9 — Host vs View
+Task:
+Create a component and:
+1.	Style the host element
+2.	Style an internal element
+Use :host explicitly.
+Constraints:
+•	Inspect actual DOM output
+•	Identify which elements Angular owns
+Deliverable:
+•	Template + styles
+•	DOM comments explaining ownership
+Reflection Trigger:
+Why does Angular need a host boundary at all?
+```
+
 ## Development server
 
 To start a local development server, run:
