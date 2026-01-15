@@ -1,0 +1,25 @@
+:host {
+  display: block;
+  padding: 24px;
+  background: #f3f1e8;
+  border: 2px solid #1f1f1f;
+  border-radius: 12px;
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px dashed #1f1f1f;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.internal {
+  margin-top: 12px;
+  padding: 10px 12px;
+  background: #ffe8a3;
+  border: 1px solid #c48c2c;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
